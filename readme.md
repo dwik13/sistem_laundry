@@ -16,5 +16,5 @@ Fitur di sistem ini yakni :
 > - Php 7.2.24
 > - Codeigniter 3.1.10
 ### Username dan password
-> - Username : sandy
+> - Username : dwi
 > - Password : 1234
